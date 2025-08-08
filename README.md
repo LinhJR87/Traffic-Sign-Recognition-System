@@ -20,9 +20,11 @@ This project focuses on improving road safety by creating a system that can reco
 
 ### Classification Results
 ![Classification Results](images/detection_picture.png)
+
 *Traffic sign classification results through image upload - showing sign name, fine amount, and confidence level*
 
 ![Classification Results](images/detection_by_cammera.png)
+
 *Traffic sign classification results through real-time camera detection - displaying recognition results with live camera feed*
 
 ## Features
